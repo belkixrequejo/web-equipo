@@ -22,7 +22,14 @@ const integrantes = [
         nombre: "Cristian Develop",
         rol: "Frontend Enginner",
         bio: "Especialista en interfaces de usuario. Diseñando la experiencia interactiva en KRAKEDEV."
-    }    
+    },
+    {
+        id: 4,
+        nombre: "Estudiante B",
+        rol: "Frontend Enginner",
+        bio: "Desarrollador Full Stack"
+    }       
+
     
 ];
 
